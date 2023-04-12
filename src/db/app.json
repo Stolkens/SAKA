@@ -1,1 +1,91 @@
-{} 
+{
+  "products":[
+  {
+     "id": 1,
+     "property": "mieszkanie",
+     "purpose": "wynajem",
+     "city": "Katowice",
+     "district": "Giszowiec",
+     "name": "Piękne mieszaknie z widokiem",
+     "description":"Dwupokojowe miszaknie na drugim piętrze czteropiętrowego bloku i jakies inne pierdoły",
+     "area": 64,
+     "roomNumbers": 2,
+     "image-main": "./images/",
+     "images": [
+      "/images/",
+      "/images/"
+     ],
+     "price": 850
+     
+  },
+  {
+    "id": 2,
+    "property": "mieszkanie",
+    "purpose": "wynajem",
+    "city": "Sosnowiec",
+    "district": "Centrum",
+    "name": "Beznadziejne miszkanie na zadupiu",
+    "description":"fdsfsd  fsdfsdf sd csd gf  fsdfsd   sd fsd f  fsdf sd f d f sdf sd f d fsd f sdgfd",
+    "area": 34,
+    "roomNumbers": 2,
+    "image-main": "./images/",
+    "images": [
+     "/images/",
+     "/images/"
+    ],
+    "price": 1030
+    
+ },
+ {
+  "id": 3,
+  "property": "mieszkanie",
+  "purpose": "sprzedaż",
+  "city": "Katowice",
+  "district": "Giszowiec",
+  "name": "Takie sobie coś",
+  "description":"kjhdfgj  jtjhhd jfhddf df hgfhd fghdf",
+  "area": 80,
+  "roomNumbers": 4,
+  "image-main": "./images/",
+  "images": [
+   "/images/",
+   "/images/"
+  ],
+  "price": 350000
+  
+},
+{
+  "id": 4,
+  "property": "dom",
+  "purpose": "sprzedaż",
+  "city": "Katowice",
+  "district": "Giszowiec",
+  "name": "Dom i fajerwerki fsdfsdfcsdcs",
+  "description":"Dwupokojowe miszaknie na drugim piętrze czteropiętrowego bloku i jakies inne pierdoły",
+  "area": 210,
+  "roomNumbers": 5,
+  "image-main": "./images/",
+  "images": [
+   "/images/",
+   "/images/"
+  ],
+  "price": 850000
+  
+},
+{
+  "id": 5,
+  "property": "działka",
+  "purpose": "sprzedaż",
+  "city": "Katowice",
+  "district": "Ligota",
+  "name": "Trawa i krzaki",
+  "description":"Dwupokojowe miszaknie na drugim piętrze czteropiętrowego bloku i jakies inne pierdoły",
+  "area": 1500,
+  "image-main": "./images/",
+  "images": [
+   "/images/",
+   "/images/"
+  ],
+  "price": 250000
+} 
+]} 

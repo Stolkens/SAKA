@@ -1,0 +1,40 @@
+.contact {
+  color: grey;
+}
+
+.carousel-inner {
+  height: 50vh;
+}
+
+.carousel-item {
+  height: 50vh;
+
+  img {
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+.carousel-caption {
+  top: 50%;
+}
+
+#pages {
+  > * {
+    display: none;
+  }
+
+  > .active {
+    display: block;
+  }
+}
+
+.form-select {
+  width: 250px;
+  margin: 10px 20px;
+}
+
+.offers {
+  display: flex;
+  flex-wrap: wrap;
+}
